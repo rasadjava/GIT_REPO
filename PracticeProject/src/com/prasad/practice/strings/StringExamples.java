@@ -4,7 +4,7 @@ public class StringExamples {
 
 	public static void main(String[] args) {
 		
-		// String immutability
+		// String immutability Concept ***
 		//Reason for string immutable to optimize the memory
 		String s1 = "Java";
 		System.out.println("===1===" + s1);
